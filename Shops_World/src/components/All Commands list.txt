@@ -1,0 +1,28 @@
+1.To run: 
+         npx react-native run-android
+2. to list out which devices is connected to run mobile or 
+        adb devices 
+3.to download react navigation 
+     npm i react-navigation
+4.for carousel effect 
+    npm install react-native-swiper
+5.to communicate with fake api in post man or from browser all methods
+  json-server --watch db.json  
+6.some times we will get all errors gradlew build 
+  ./gradlew clean   
+7.to install all icons in simple or fontaswome 
+  npm install --save react-native-vector-icons
+8.npm install react-navigation-header-buttons 
+9.npm install @react-navigation/stack   
+10 some times port already running error  to kill
+  npx kill-port 8081  
+11. npm start -- --reset-cache  
+12.npm start    
+13. want to run in new port 
+  npx react-native start --port=8082    
+14.npm install @react-navigation/native @react-navigation/core
+15.npm install react-native-gesture-handler
+16.npm install react-native-gesture-handler react-native-reanimated
+17.npm install @react-navigation/drawer
+18.npm install react-native-screens react-native-safe-area-context
+19.npm install @react-navigation/native
